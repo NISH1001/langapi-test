@@ -1,0 +1,9 @@
+numpy==1.24.3
+pandas==2.0.2
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+seaborn==0.12.2
+streamlit==1.23.1
+langchain==0.0.208
+langchainplus-sdk==0.0.16
+openai==0.27.8
